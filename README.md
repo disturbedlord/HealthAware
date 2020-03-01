@@ -1,4 +1,4 @@
-# HealthAware [ An app still under development { Hackathon }]
+# HealthAware [ under development { Hackathon }]
 
 A medical App to get the disease related Info. from neighbor places.
 
